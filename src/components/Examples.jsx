@@ -33,7 +33,7 @@ const Examples = () => {
   return (
     <div className="py-10 ">
       <h1 className="my-10 text-5xl text-center font-bold">Was that enough?</h1>
-      <div className="flex m-4 py-10">
+      <div className="flex m-4 py-10 md:flex-col">
         <img
           src={thankYou}
           className="border-1 border-slate-200 rounded-lg shadow-lg shadow-gray-500/100"

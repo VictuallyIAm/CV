@@ -51,8 +51,8 @@ const MainLayout = () => {
       >
         <div className="m-1 sm:mx-0">
           <Link>
-            <span className="flex text-purple-500 sm:hidden">
-              <p className="mx-3 text-2xl my-1 font-semibold">VictuallyIAm</p>
+            <span className="flex text-black sm:hidden">
+              <p className="mx-3 text-2xl my-1 font-bold">VictuallyIAm</p>
             </span>
           </Link>
         </div>
@@ -80,7 +80,7 @@ const MainLayout = () => {
                   className="hover:translate-y-1 transition-transform"
                   onClick={scrollToExamples}
                 >
-                  Examples
+                  Feedback
                 </p>
               </div>
               <div className="cursor-pointer border-r-2  p-2 px-4 border-r-slate-50  hover:text-slate-500">
@@ -91,16 +91,13 @@ const MainLayout = () => {
                   Contact
                 </p>
               </div>
-              <div className="cursor-pointer border-r-2  p-2 px-4 border-r-slate-50  hover:text-slate-500">
+              <div className="cursor-pointer border-r-2  p-2 px-4 border-r-slate-50  hover:text-slate-500 sm:hidden">
                 <a
                   href="https://github.com/VictuallyIAm/my-cv-app"
                   target="_blank"
                   rel="noreferrer"
                 >
-                  <p
-                    className="hover:translate-y-1 transition-transform"
-                    onClick={scrollToContact}
-                  >
+                  <p className="hover:translate-y-1 transition-transform">
                     View on gitHub
                   </p>
                 </a>
