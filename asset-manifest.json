@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/my-cv-app/static/css/main.589d6de9.css",
+    "main.js": "/my-cv-app/static/js/main.bcb27deb.js",
+    "static/media/me5.jpg": "/my-cv-app/static/media/me5.a7fde09056dc2b294aeb.jpg",
+    "static/media/me4.jpg": "/my-cv-app/static/media/me4.eab7c4c3b91b4d7a69a9.jpg",
+    "static/media/banner.jpg": "/my-cv-app/static/media/banner.9d2229e314984a53ffe8.jpg",
+    "static/media/BeketovVV.pdf": "/my-cv-app/static/media/BeketovVV.10d54c6016031e562e7a.pdf",
+    "static/media/me.jpg": "/my-cv-app/static/media/me.dcbd620d008969c10f84.jpg",
+    "static/media/me3.jpg": "/my-cv-app/static/media/me3.c6054d77efb10aff5046.jpg",
+    "static/media/me2.jpg": "/my-cv-app/static/media/me2.e5e9ee836e110372d771.jpg",
+    "index.html": "/my-cv-app/index.html",
+    "main.589d6de9.css.map": "/my-cv-app/static/css/main.589d6de9.css.map",
+    "main.bcb27deb.js.map": "/my-cv-app/static/js/main.bcb27deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.589d6de9.css",
+    "static/js/main.bcb27deb.js"
+  ]
+}
