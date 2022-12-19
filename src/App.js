@@ -8,7 +8,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <Routes>
-          <Route path="/" element={<MainLayout />}></Route>
+          <Route path="/my-cv-app" element={<MainLayout />}></Route>
         </Routes>
       </div>
     </BrowserRouter>

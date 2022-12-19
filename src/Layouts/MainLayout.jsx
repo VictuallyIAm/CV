@@ -91,6 +91,20 @@ const MainLayout = () => {
                   Contact
                 </p>
               </div>
+              <div className="cursor-pointer border-r-2  p-2 px-4 border-r-slate-50  hover:text-slate-500">
+                <a
+                  href="https://github.com/VictuallyIAm/my-cv-app"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <p
+                    className="hover:translate-y-1 transition-transform"
+                    onClick={scrollToContact}
+                  >
+                    View on gitHub
+                  </p>
+                </a>
+              </div>
             </div>
           </nav>
         </div>

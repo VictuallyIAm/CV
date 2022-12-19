@@ -16,9 +16,9 @@ const About = () => {
             web-site. It means a lot for me. My name is Vitya, I'm 25 years old,
             and I love making some great stuff in the web. I invited you here to
             show, what we can actually do together. Here you can get familiar
-            with my skills, watch on my previous project, check out the CV and
-            contact me directly, if it is neccesary. Oh, I know you don't have
-            time, just get started right now!
+            with my skills, check out the CV and contact me directly, if it is
+            neccesary. Oh, I know you don't have time, just get started right
+            now!
           </p>
         </div>
         <div className="flex p-6 justify-center sm:p-0">

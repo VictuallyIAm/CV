@@ -16,7 +16,7 @@ const Contact = () => {
       )
       .then(
         (result) => {
-          Notiflix.Notify.success('Awwwww, brb')
+          Notiflix.Notify.success('I received your message!')
         },
         (error) => {
           console.log(error.message)

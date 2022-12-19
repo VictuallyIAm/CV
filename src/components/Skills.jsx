@@ -25,11 +25,11 @@ const Skills = () => {
               <h1 className="text-3xl font-bold px-2 my-2">{skill.title}</h1>
               <h2 className="font-thin px-2 my-2">{skill.slug}</h2>
               <p className="px-2 my-2">{skill.desc}</p>
-              <button className="px-12 py-3 m-4 bg-back-black text-white rounded-full">
-                <a href={myCV} target="_blank" rel="noreferrer">
+              <a href={myCV} target="_blank" rel="noreferrer">
+                <button className="px-12 py-3 m-4 bg-back-black text-white rounded-full">
                   Learn more
-                </a>
-              </button>
+                </button>
+              </a>
             </Card>
           )
         })}
