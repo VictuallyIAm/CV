@@ -80,7 +80,7 @@ const MainLayout = () => {
                   className="hover:translate-y-1 transition-transform"
                   onClick={scrollToExamples}
                 >
-                  Feedback
+                  Examples
                 </p>
               </div>
               <div className="cursor-pointer border-r-2  p-2 px-4 border-r-slate-50  hover:text-slate-500">
