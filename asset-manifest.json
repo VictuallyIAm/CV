@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/my-cv-app/static/css/main.da31473a.css",
-    "main.js": "/my-cv-app/static/js/main.11043979.js",
-    "static/media/thankYou.gif": "/my-cv-app/static/media/thankYou.75b0f6cf990db8e38788.gif",
+    "main.css": "/my-cv-app/static/css/main.3587dfbf.css",
+    "main.js": "/my-cv-app/static/js/main.862bf5b1.js",
+    "static/media/schoolsite.png": "/my-cv-app/static/media/schoolsite.b1285641b291c1a70aee.png",
+    "static/media/beatsite.png": "/my-cv-app/static/media/beatsite.f7dbead9453439a5695c.png",
     "static/media/me5.jpg": "/my-cv-app/static/media/me5.a7fde09056dc2b294aeb.jpg",
     "static/media/me4.jpg": "/my-cv-app/static/media/me4.eab7c4c3b91b4d7a69a9.jpg",
     "static/media/BeketovVV.pdf": "/my-cv-app/static/media/BeketovVV.1baa4e65b5e38705b855.pdf",
@@ -11,11 +12,11 @@
     "static/media/me3.jpg": "/my-cv-app/static/media/me3.c6054d77efb10aff5046.jpg",
     "static/media/me2.jpg": "/my-cv-app/static/media/me2.e5e9ee836e110372d771.jpg",
     "index.html": "/my-cv-app/index.html",
-    "main.da31473a.css.map": "/my-cv-app/static/css/main.da31473a.css.map",
-    "main.11043979.js.map": "/my-cv-app/static/js/main.11043979.js.map"
+    "main.3587dfbf.css.map": "/my-cv-app/static/css/main.3587dfbf.css.map",
+    "main.862bf5b1.js.map": "/my-cv-app/static/js/main.862bf5b1.js.map"
   },
   "entrypoints": [
-    "static/css/main.da31473a.css",
-    "static/js/main.11043979.js"
+    "static/css/main.3587dfbf.css",
+    "static/js/main.862bf5b1.js"
   ]
 }
